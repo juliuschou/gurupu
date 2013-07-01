@@ -1,0 +1,9 @@
+en:
+  activerecord:
+    models:
+      user: "Group Member"
+    attributes:
+      user:
+        name: "User Name"
+        email: "E-Mail"
+

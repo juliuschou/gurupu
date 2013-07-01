@@ -1,0 +1,9 @@
+zh-TW:
+  activerecord:
+    models:
+      tag: "帳目分類"
+    attributes:
+      tag:
+        name: "帳目分類名稱"
+        is_default: "預設帳目分類"
+

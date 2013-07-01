@@ -1,0 +1,9 @@
+zh-TW:
+  activerecord:
+    models:
+      user: "會員"
+    attributes:
+      user:
+        name: "會員姓名"
+        email: "E-Mail"
+

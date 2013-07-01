@@ -1,0 +1,9 @@
+zh-TW:
+  activerecord:
+    models:
+      group: "團體"
+    attributes:
+      group:
+        name: "團體名稱"
+        state: "狀態"
+

@@ -1,0 +1,10 @@
+zh-TW:
+  activerecord:
+    models:
+      expense: "報帳"
+    attributes:
+      expense:
+        name: "報帳項目"
+        cost: "費用"
+        description: "說明"
+

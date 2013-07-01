@@ -1,0 +1,9 @@
+en:
+  activerecord:
+    models:
+      tag: "Cost Tag"
+    attributes:
+      tag:
+        name: "Tag Name"
+        is_default: "Default Tag"
+
